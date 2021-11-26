@@ -1,0 +1,18 @@
+.form-check .form-check-label span {
+	display: block;
+	position: absolute;
+	left: 4px;
+	top: -7px;
+	transition-duration: 0.2s;
+}
+.label {
+	position: absolute;
+	right: 0;
+	top: 89px;
+	right: 55px;
+	/* padding: 0 9px 7px 3px; */
+}
+.form.navbar-form {
+	margin: 15px 0 0 15px;
+}
+\
