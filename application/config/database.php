@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'db-mysql-blr1-79668-do-user-10288750-0.b.db.ondigitalocean.com:25060',
+	'hostname' => 'greenly-do-user-10288750-0.b.db.ondigitalocean.com:25060',
 	'username' => 'doadmin',
-	'password' => 'EGIN2fWCwhZF9Cz0',
+	'password' => 'ii5KEqziUGu0L33m',
 	'database' => 'greenly',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
